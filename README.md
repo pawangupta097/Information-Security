@@ -8,5 +8,5 @@ There are two folders Hardware Detail and Software Detail.<br/>
 ## Requirement to run Program
 1. OS - Windows 7 or above
 2. .NET Framework 4.7 or above<br/>
-Above programs are compiled on Visual Studio 2019.
+
 <!--There are two programs [Hardware Detail](https://github.com/pawangupta097/Information-Security/blob/main/Hardware%20Detail/hardware_details.cs) and [Software Detail](https://github.com/pawangupta097/Information-Security/blob/main/Software%20Detail/software_detail.cs). Hardware details contain basic OS, disk, printer, network data etc. Software detail contain software installed and its version.-->
